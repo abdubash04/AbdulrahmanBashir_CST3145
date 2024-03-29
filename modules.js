@@ -50,7 +50,7 @@ let modules = [
         title: "Arts and Craft",
         price: 40,
         location: "DIAC",
-        Icon: "bi bi-brush",
+        icon: "bi bi-brush",
         spaces: 6
 
     },
@@ -60,7 +60,7 @@ let modules = [
         title: "Trading",
         price: 120,
         location: "DIAC", 
-        Icon: "bi bi-graph-up",
+        icon: "bi bi-graph-up",
         spaces: 10
     },
 
@@ -69,7 +69,7 @@ let modules = [
         title: "HTML",
         price: 20,
         location: "DIAC",
-        Icon: "bi bi-filetype-html",
+        icon: "bi bi-filetype-html",
         spaces: 8
     },
 
@@ -78,7 +78,7 @@ let modules = [
         title: "Communication Skills",
         price: 50,
         location: "Online",
-        Icon: "bi bi-chat-left-text",
+        icon: "bi bi-chat-left-text",
         spaces: 5
     },
 
@@ -87,7 +87,7 @@ let modules = [
         title: "sports Drills",
         price: 20,
        location: "DIAC Park",
-        Icon: "bi bi-cone-striped",
+        icon: "bi bi-cone-striped",
         spaces: 10
     },
 ]
