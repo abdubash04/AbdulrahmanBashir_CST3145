@@ -3,9 +3,9 @@ let modules = [
         id: 1,
         title: "Mathematics",
         price: 50.5,
-        location: "Jam'are",
+        location: "Palgore ",
         icon: "bi bi-calculator",
-        spaces: 8
+        spaces: 5
     },
 
     {
@@ -32,7 +32,7 @@ let modules = [
         price: 20,
         location: "DIAC",
         icon: "bi bi-egg-fried",
-        spaces:10,
+        spaces:5,
 
     },
 
@@ -51,7 +51,7 @@ let modules = [
         price: 40,
         location: "DIAC",
         icon: "bi bi-brush",
-        spaces: 6
+        spaces: 5
 
     },
 
@@ -61,7 +61,7 @@ let modules = [
         price: 120,
         location: "DIAC", 
         icon: "bi bi-graph-up",
-        spaces: 10
+        spaces: 5
     },
 
     {
@@ -70,7 +70,7 @@ let modules = [
         price: 20,
         location: "DIAC",
         icon: "bi bi-filetype-html",
-        spaces: 8
+        spaces: 5
     },
 
     {
@@ -88,6 +88,6 @@ let modules = [
         price: 20,
        location: "DIAC Park",
         icon: "bi bi-cone-striped",
-        spaces: 10
+        spaces: 5
     },
 ]
